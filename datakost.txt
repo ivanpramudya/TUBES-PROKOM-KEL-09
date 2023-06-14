@@ -1,0 +1,30 @@
+1,Kost Gang Amarta 2,P,Gang Amarta 2,3x4 m,12000000,KM Dalam; AC,082137500938 (Bu Daryatmi),3
+2,Omah Ngaji Al Anshori,L,Mojosongo,3x3 m,2220000,KM Dalam; WIFI,082244774105 (Kang Fahmi),2
+3,Ekost Luxury 3,L,Jl Agung Timur Mojosongo,3x2 m,8500000,KM Dalam,082284567473,1
+4,Kost Bu Erna,P,Mojosongo,3x3 m,6600000,KM Dalam,087895251293,1
+5,Kost Pondok Damai,L,Mojosongo,3x3 m,3500000,KM Luar; WIFI,081390994441,0
+6,Wisma Sri,P,Jl Kabut 2,3x3 m,7000000,KM Dalam; WIFI,085771917760 (Mas Robbi),2
+7,Kost Cipto,P,Jl Baskoro,3.5x3.5 m,6500000,KM Dalam; WIFI,085725696868 (Nina),5
+8,Kost Al-Azhar,P,Jl Cahaya 8 No 6,3x4 m,8000000,KM Dalam; WIFI,085715010448 (Ibu Sadiyah),0
+9,Kost Superboyo,L,Jl Gendingan,4x4 m,4800000,KM Luar; WIFI,081227163747 (Bu Wibiana),1
+10,Wisma Lasita Putri,P,Jl Cahaya 1,3x2 m,20000000,KM Dalam; WIFI; AC,0895806073366 (Bu Eni),2
+11,Kost Putri Aisha,P,Jl Kartika 7,3x3 m,5000000,KM Dalam; WIFI,082221058049,4
+12,Kost Putra Graha Kartika,L,Jl Kartika 5/6,3x4 m,5500000,KM Dalam; WIFI,085642210232,2
+13,Kost Areza,L,Jl Baskoro 4,3x2 m,5400000,KM Dalam; WIFI,082220744123 (Bamz),3
+14,Kost Pak Sulis,L,Pucangsawit,3x3 m,4200000,KM Luar; WIFI,08156712149 (Bu Mahmudah),2
+15,Kost Pandawa,L,Jl Surya Utama,3x4 m,7500000,KM Dalam; WIFI,081567887000 (Ibu Anita),1
+16,Wisma Putri Sri Rejeki,P,Jl Surya 2 No 78,3x4 m,11000000,KM Dalam; AC; WIFI,081229484416 (Bu Sri),2
+17,Kost Rinumpaka 2,P,Jl Surya 2,3x3 m,7000000,KM Dalam; WIFI,085228126786 (Bu Diah),2
+18,Griya Berkah,L,Jl KH Masykur No 10 Gendingan,3x4 m,6240000,KM Luar; AC; WIFI,082136707444 (Ibu Amallia),3
+19,Wisma Agya,L,Jl Bima Sakti,4x4 m,5000000,KM Dalam; WIFI,0895341970904 (Pak Heru),2
+20,Kost Gedung Putih,P,Jl Ki Hajar Dewantara,3x4 m,13800000,KM Luar; WIFI,085226473000 (Ayu Alvin),0
+21,Kost Putra Grahadi,L,Jl Cendrawasih,4x2 m,6000000,KM Dalam; WIFI,085230744137 (Bu Diana),0
+22,Kost Putra SN,L,Jl Awan,4x4 m,12000000,KM Dalam; AC; WIFI,081211622903 (Kiki),1
+23,Kost Putra Serodja,L,Jl Bima Sakti No 11,2.5x2.5 m,4800000,KM Dalam,0895363056983 (Galang),2
+24,Kost Ravito,L,Jl Awan,3x4 m,6800000,KM Dalam; AC; WIFI,081578445554,5
+25,Brother House Imanuel,L,Jl Halilintar,4x4 m,3600000,KM Luar; WIFI,081333420046 (Suyahman),1
+26,Wisma Palupi,P,Jl Halimun 3 No 27,4x6 m,30000000,KM Dalam; AC; WIFI,082314212607 (Ibu Kos),0
+27,Wisma Putri Cahaya,P,Jl Halimun 3 No 50,3x3.5 m,6000000,KM Dalam; WIFI,085647207113,3
+28,Wisma Linaya,P,Jl Halimun No 59,3x2 m,6000000,KM Dalam,082323559197 (Asti),1
+29,Kost Putri Barokah,P,Jl. Guntur No 39,3x2 m,4000000,KM Luar,085743327770,1
+30,Wisma Putri Maheswari,P,Gang Kartika 1,3x4 m,10000000,KM Dalam; AC; WIFI,081567887000 (Bu Anita),2
